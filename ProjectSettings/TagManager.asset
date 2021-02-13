@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Background
+  - Mur
+  - Tapis
+  - 
+  - Score
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3370338125
+    locked: 0
+  - name: Mur
+    uniqueID: 2553461883
+    locked: 0
+  - name: Tapis
+    uniqueID: 1265796145
+    locked: 0
+  - name: Score
+    uniqueID: 1044248997
+    locked: 0
+  - name: Joueur
+    uniqueID: 786757333
+    locked: 0
