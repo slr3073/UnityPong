@@ -76,3 +76,4 @@ crashlytics-build.properties
 *.iml
 out
 gen
+.vscode
