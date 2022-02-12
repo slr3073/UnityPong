@@ -71,3 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
